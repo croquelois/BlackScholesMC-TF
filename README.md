@@ -5,7 +5,7 @@ It's just a proof of concept of using TensorFlow to compute quantitative finance
 - Method: Monte Carlo
 - Language: Python with TensorFlow
 
-It does roughly 200 montecarlo by second
+It does roughly 200 montecarlo by second on a digitalOcean 2 core droplet (Intel(R) Xeon(R) CPU E5-2630L v2 @ 2.40GHz)
 
 ![error](https://github.com/croquelois/BlackScholesMC-TF/blob/master/error.png)
 
